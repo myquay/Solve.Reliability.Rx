@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve.Reliability.Rx", "Solve.Reliability.Rx\Solve.Reliability.Rx.csproj", "{29785E58-0412-498A-A948-5838188195AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve.Reliability.Rx.Tests", "Solve.Reliability.Rx.Tests\Solve.Reliability.Rx.Tests.csproj", "{5338D52E-6EBC-40FD-A675-8CB35020006E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29785E58-0412-498A-A948-5838188195AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29785E58-0412-498A-A948-5838188195AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29785E58-0412-498A-A948-5838188195AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29785E58-0412-498A-A948-5838188195AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5338D52E-6EBC-40FD-A675-8CB35020006E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5338D52E-6EBC-40FD-A675-8CB35020006E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5338D52E-6EBC-40FD-A675-8CB35020006E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5338D52E-6EBC-40FD-A675-8CB35020006E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
